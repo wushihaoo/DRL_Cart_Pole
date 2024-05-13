@@ -7,4 +7,10 @@
 
 
 ## 智能体
-本项目使用了四种强化学习算法。
+本项目使用了四种强化学习算法，算法代码在文件夹 [agents](agents)中。
+
+- [DQN.py](agents/DQN.py)
+- [DoubleDQN.py](agents/DoubleDQN.py)
+- [PolicyGradient.py](agents/PolicyGradient.py)
+- [ActorCritic.py](agents/ActorCritic.py)
+
