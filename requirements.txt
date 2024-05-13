@@ -1,0 +1,6 @@
+gym[classic_control]
+matplotlib
+torch
+numpy
+random
+collections
