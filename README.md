@@ -4,6 +4,7 @@
 
 ## 环境
 本项目所用算例为开源强化学习环境库Gym中的"CartPole"。
+[https://www.gymlibrary.dev/environments/classic_control/cart_pole/](https://www.gymlibrary.dev/environments/classic_control/cart_pole/)
 
 
 ## 智能体
